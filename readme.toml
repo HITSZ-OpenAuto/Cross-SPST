@@ -33,7 +33,7 @@ name = "普通天文学"
 
 description = "课程为天文学的半科普半专业课程，上课会涉及很多很专业的名词和晦涩难懂的概念，也会有很多复杂无比的计算，但是这些都不重要！本门课程是通识课，只要求最基本的部分，如恒星研究中最广泛使用的赫罗图。"
 
-[courses.teachers]
+[[courses.teachers]]
 name = "邹蓬"
 
 [[courses.teachers.reviews]]
